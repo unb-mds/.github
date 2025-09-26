@@ -9,4 +9,4 @@ A disciplina utiliza aprendizagem por experiência, aprendizagem orientada a pro
 
 # Saiba mais
 
-Entre no site da disciplina em (https://mds.lappis.rocks/)[https://mds.lappis.rocks/]
+Entre no site da disciplina em [https://mds.lappis.rocks/](https://mds.lappis.rocks/)
